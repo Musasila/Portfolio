@@ -1,0 +1,52 @@
+
+
+
+
+.hero {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+.hero p {
+  font-size: 1.2em;
+}
+
+.about {
+  background: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+.about h2 {
+  color: #6a11cb;
+}
+
+.projects {
+  background: #e9ecef;
+  padding: 40px 20px;
+  text-align: center;
+}
+.projects h2 {
+  color: #2575fc;
+}
+
+.skills {
+  background: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+.skills h2 {
+  color: #6a11cb;
+}
+.contact {
+  background: #e9ecef;
+  padding: 40px 20px;
+  text-align: center;
+}
+.contact h2 {
+  color: #2575fc;
+}
